@@ -1,6 +1,6 @@
 package setter
 
-class User {
+class RegularUser { // Copied from User: just changed the name
     String email
     String passwordHash
     
